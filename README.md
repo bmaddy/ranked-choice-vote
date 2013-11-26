@@ -6,4 +6,6 @@ unzip clojure-1.5.1.zip
 
 # run the script
 java -cp clojure-1.5.1/clojure-1.5.1.jar clojure.main ranked-choice-vote.clj SampleData1.csv
+```
 
+Sample data is borrowed from here: https://github.com/wch/ranked-choice-vote
